@@ -1,0 +1,12 @@
+Job Title: Data Analyst
+
+Responsibilities:
+- Collect, analyze, and interpret large data sets.
+- Develop dashboards and reports for business stakeholders.
+- Collaborate with cross-functional teams to identify business needs.
+
+Requirements:
+- Proficiency in Python and SQL.
+- Experience with data visualization tools like Tableau or Power BI.
+- Strong analytical and problem-solving skills.
+- Bachelor’s degree in Computer Science, Statistics, or related field.
